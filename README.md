@@ -73,6 +73,7 @@
 *Как запустить*
  
  __git clone https://github.com/yakubka/_auth_system_.git__
+ 
  __cd имя дериктории__
 
  __python -m venv venv__
