@@ -77,5 +77,9 @@
  __cd имя дериктории__
 
  __python -m venv venv__
+
+ 
 __chmod +x run.sh__
+
+
 __./run.sh__
